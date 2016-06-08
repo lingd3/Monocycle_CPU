@@ -1,0 +1,8 @@
+verilog work "SignZeroExtend.v"
+verilog work "RegisterBlock.v"
+verilog work "PC.v"
+verilog work "InstructionMemory.v"
+verilog work "DataMemory.v"
+verilog work "ControlUnit.v"
+verilog work "ALU.v"
+verilog work "CPU.v"

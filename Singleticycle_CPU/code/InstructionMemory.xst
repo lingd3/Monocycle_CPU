@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Yunzhao/Desktop/MySingleCycleCPU/CPU/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Yunzhao/Desktop/MySingleCycleCPU/CPU/xst"
+elaborate
+-ifn InstructionMemory.prj
+-ifmt mixed

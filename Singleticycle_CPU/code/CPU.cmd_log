@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/gd/Desktop/CPU/CPU.xst" -ofn "C:/Users/gd/Desktop/CPU/CPU.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim CPU.ngc CPU_synthesis.v 
